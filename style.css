@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+.hidden {
+  display: none;
+}
+
+.blue {
+  color: rgb(74, 113, 181);
+}
+
+.red {
+  color: rgb(163, 63, 63);
+}
+
+.green {
+  color: rgb(74, 166, 109);
+}
